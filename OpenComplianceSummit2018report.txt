@@ -1,0 +1,582 @@
+Open Compliance Summit 2018 report
+
+参加は80人程度。
+12社から発表
+
+DECEMBER 6 • THURSDAY
+ 09:00 – 09:05	C	Welcome Conference Room 7&8
+1-1 09:05 – 09:20	C	State of the Union - Mike Dolan, VP of Strategic Programs, The Linux Foundation Conference Room 7&8
+1-2 09:20 – 09:40	C	Panel: New Members @ OpenChain Conference Room 7&8
+1-3 09:40 – 10:00	C	Today in Japan - Shane Coughlan, The Linux Foundation & Hiroyuki Fukuchi Conference Room 7&8
+1-4 10:00 – 10:20	C	Today in China - Maggie Wang, Ladas & Parry LLP Conference Room 7&8
+Speakers: Maggie Wang
+1-5 11:00 – 11:20	C	Linux Foundation Compliance Program Update - Kate Stewart, The Linux Foundation Conference Room 7&8
+1-6 11:20 – 11:40	C	Quick Guide: Choosing A License in 2018 - Software, Hardware, Documents and Data - Andrew Katz, Moorcrofts LLP Conference Room 7&8
+1-7 11:40 – 12:20	C	Panel Discussion: How We Did It: Open Source Programs and Company Culture - Charles Eckel, Cisco; Krista Khare, Comcast; Chandana Rao, Cognizant Conference Room 7&8
+1-8 14:00 – 14:20	C	Don’t Ship that Container – On the Challenges of Compliance of Container Images - Dirk Hohndel, VMware Conference Room 7&8
+1-9 14:20 – 14:40	C	Auto Industry Implementation of “Open Source Software Supply Chain Management (OSSSCM)” - Masato Endo, Toyota Motor Corporation Conference Room 7&8
+1-10 14:40 – 15:00	C	Best Practices For Accepting Code Contributions - Dashiell Renaud, Google Conference Room 7&8
+1-11 15:40 – 16:00	C	Case Study: Introducing Binary Analysis Next Generation: A Dive Into New Features and Functionalities - Armijn Hemel Conference Room 7&8
+1-12 16:00 – 16:20	C	Building an Artificial Intelligence (AI) License Compliance Assistant - Jon Aldama, FOSSID AB Conference Room 7&8
+1-13 16:20 – 16:40	C	FOSSology - Two New Approached for License Scanning - Maximilian Huber, TNG Technology Consulting GmbH & Aman Jain, Mercari Conference Room 7&8
+1-14 16:40 – 17:30	W	Workshop: Using OSS Tooling for Open Source Compliance - Michael Jaeger, Siemens AG Conference Room 7&8
+
+DECEMBER 7 • FRIDAY
+2-1 09:00 – 09:20	C	Experiences from Open Source Program Office in an Established Company - Keiichi Seki, NEC Conference Room 7&8
+2-2 09:20 – 09:40	C	Automated OSS and License Detection System at Hitachi - Daisuke Koide, Hitachi, Ltd Conference Room 7&8
+2-3 09:40 – 10:00	C	Fujitsu's Internal Operations for Participating in the OSS Communities - Takashi Harada, Fujitsu Limited Conference Room 7&8
+2-4 10:00 – 10:20	C	Open Source at Microsoft Scale, A Tale of Millions - Jeff McAffer, Microsoft Conference Room 7&8
+2-5 11:00 – 11:20	C	Does Compliance Require Enforcement? - James Bottomley, IBM Conference Room 7&8
+2-6 11:20 – 11:40	C	Quick Guide: 3rd Party Open Source Software Compliance Certification - Procedure, Case Study and Benefits Conference Room 7&8
+Speakers: Takanishi, Kayoko, Andreas Bärwald, Nicole Pappler
+2-7 11:40 – 12:00	C	Software Heritage: Archive All the Source Code for Better Compliance - Stefano Zacchiroli, Software Heritage Conference Room 7&8
+2-8 12:00 – 12:20	C	A Look at the Copyright Notices in Linux Kernel - Shi Qiu & Katsuro Inoue, Osaka University Conference Room 7&8
+2-9 14:00 – 14:20	C	Trademarks in Open Source - Hilary Richardson, Google LLC Conference Room 7&8
+Speakers: Hilary Richardson
+2-10 14:20 – 14:40	C	Thinking Point: GDPR and Open Source Development - Steve Winslow, The Linux Foundation Conference Room 7&8
+2-11 14:40 – 15:10	C	Panel Discussion: Choosing Outside Counsel - Christopher Ekren, Sony Corporation; Andrew Katz, Moorcrofts LLP; Maggie Wang, Ladas & Parry LLP Conference Room 7&8
+2-12 15:50 – 16:35	W	Workshop: Putting OpenChain and SPDX to Work - Kate Stewart & Shane Coughlan, The Linux Foundation Conference Room 7&8
+2-13 16:35 – 17:25	W	Workshop: Using CHAOSS to Measure Risk and Value - Sean Goggins Conference Room 7&8
+
+発表
+ACT (Automated Compliance Tooling)プロジェクト開始
+
+Automated Compliance Tooling project announced, Code California launches, Tor funding, and more news | Opensource.com
+https://opensource.com/article/18/12/news-december-22
+
+A new ACT for open source compliance from The Linux Foundation - JAXenter
+https://jaxenter.com/open-source-linux-act-152823.html
+4プロジェクトへのリンクあり
+Ternにはここからアクセス可
+
+The Linux Foundation to Launch New Tooling Project to Improve Open Source Compliance - The Linux Foundation
+https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/
+
+FOSSology, QMSTR, SPDC Tools, Ternの4つのツール開発プロジェクトの統合。
+投資の統合。相互運用性、ユーザビリティの向上。効率的なワークフロー
+ACTはファンド。
+
+発表２
+OpenChain 1.2のプラチナメンバーに、Facebook, Google, Uberが加入
+
+OpenChain Project Gains Facebook, Google and Uber as Platinum Members - The Linux Foundation
+https://www.linuxfoundation.org/press-release/2018/12/openchain-project-gains-facebook-google-and-uber-as-platinum-members/
+
+日立がOpenChain 適合の認証をテュフズード(TÜV SÜD）より取得
+https://www.tuv-sud.jp/jp-jp
+
+日立製作所、FOSS(フリーオープンソースソフトウェア)のライセンス管理プロセスを構築し適切に運用するための認証「オープンソース ライセンス ガバナンス プロセス認証」をテュフズードジャパンより取得
+https://www.tuv-sud.jp/jp-jp/press-media-centre/newsroom/hitachi-foss-open-source-license-governance-process-certification
+
+OpenChainに適合したのは、日本企業としては日立が初。大規模企業としても初。
+来年、ISOと標準化について議論する予定。
+
+コンプライアンスのためのポータルサイト
+Home - Open Compliance Program
+https://compliance.linuxfoundation.org/
+
+【1-3】
+ソニー福地氏
+日本のワーキング・グループ活動について
+アクティブメンバーは20-30人
+日本の中の活動として非常にアクティブである。
+成果はGitHubで共有
+
+OpenChain Japan WG General
+GitHub - OpenChain-Project/Japan-WG-General: Repository of workplace for the OpenChain Japan Work Group(JWG)
+https://github.com/OpenChain-Project/Japan-WG-General
+
+OpenChain Japan Work Groupの作業成果物を共有するサイト
+GitHub - OpenChain-Project/Onboarding-JWG: workplace for the OpenChain Japan Work Group(JWG)
+https://github.com/OpenChain-Project/Onboarding-JWG
+
+OpenChain仕様　日本語翻訳版
+GitHub - OpenChain-Project/Specification-Translation-JP: OpenChain Specification Japanase Translation
+https://github.com/OpenChain-Project/Specification-Translation-JP
+
+SG1-1 ビジネスワークフローの分析
+SG1-2 各ロールへの教育
+　小規模会社向けの、学習しやすく、短くまとまった教材
+　詳細学習資料もあり
+SG4 サプライチェーンの連携
+　SPDXモデルを利用（ライセンス情報の交換）。SPDX仕様は難しい。
+　SPDXライトバージョンを作る構想あり。パッケージ情報だけを記述して簡単にしている。
+会議は2ヶ月に１度。
+正式会議は７回開催。他に2回のアドホックミーティング。
+サブグループ報告書を更新。グローバルコミュニティに成果を返す。
+英語への翻訳も実施。
+
+【1-4】
+中国のOSS事情
+新聞・ニュース記事を中心に紹介
+Huawei 中国はまだshareの重要性に気付いていない。これからはshareが重要になる。Huaweiはリーダーになっていく。
+Kaiyuanshe OSSコンプライアンスは大企業から中小企業へ広がっていく。
+China's open source leaps
+Seven Days and Four Cities in China - OpenSSL Blog
+https://www.openssl.org/blog/blog/2017/09/28/china/
+OpenSSLのメンバーが中国を訪れたときの訪問記。China's Open Source Leapsはそのうちの一章。中国が貪欲にOpen Sourceを取り入れ始めていることが分かる。貢献はまだまだのようである。
+もはや孤立した国ではない。
+
+GITSTAR RANKINGでAlibabaは8位。
+Gitstar Ranking - Top GitHub users and repositories
+https://gitstar-ranking.com/
+2018/12/26現在、Alibabaは7位だった。
+
+参考：GitHubリポジトリのスターを数える
+GitHubリポジトリのスター数を見える化してみました。 - Qiita
+https://qiita.com/cawpea/items/caadedceae7cb38bc7d3
+要するに人気投票
+
+Apache Sparkのコミッターは中国メーカーが1, 3位
+（裏付ける資料を見つけられず）
+
+Linux Foundation, OINメンバーも多い。Tencent, Alibaba
+
+事例：OSSとプロプライエタリ・ソフトウェアとのライセンスの区別ができるようになってきている。訴訟に関しても中国でハイリスクではなくなってきている。
+
+まとめ
+・楽観的であれ
+・貢献はこれから
+・訴訟は少なく、法的リスクはまだ低い
+・コンプライアンスの気づきは改善されつつある。
+・サプライチェーン・コンプライアンスが徐々に必要になってきている。
+　Alibabaはよりフォーカスしている。コンプライアンスを守るようにプレッシャーを与えている。
+　
+【1-5】
+OCPプログラムのゴール：OSSベスト・プラクティス、標準についての代表ポータル
+ACT 9月のLF legal summitでツールにギャップがあるという認識が広まった。
+FOSSology: 3.4がリリースされた。以下が機能向上。コマンドラインモード、レポーティング、SPDXライセンスリスト
+　新プロジェクト：FOSS driver：新コマンドラインツール。Pythonからサーバを制御できる。
+　　　　　　　　　Atarashi: 新ライセンススキャナ
+　　　　　　　　　SPDXライセンスリスト v3.3 (2018/10/24) 
+　　　　　　　　　SPDX Spec 2.2: 複数の出力フォーマット XML/JSON/YAML
+　　　　　　　　　          2.1は福地氏が翻訳
+　　　　　　　　　　NISTとの協業：SWIDとSPDXのギャップを解決
+　　　　　　　　　　
+　　　　　　　　　　参考：SWID https://www.ipa.go.jp/files/000051147.pdf
+
+                  Specifications | Software Package Data Exchange (SPDX)
+https://spdx.org/specifications（最新は2.1）
+
+　　　　　　　　　SPDX License List | Software Package Data Exchange (SPDX)
+https://spdx.org/licenses/（最新は3.4 2018/12/20）
+
+　　　　　　　　　GitHub - spdx/spdx-spec: The SPDX specification in MarkDown and HTML formats.
+https://github.com/spdx/spdx-spec（最新2.1.1のソース）
+
+Open Source Compliance in the Enterprise
+  SPDXとOpen Chainのページあり
+  
+【1-6】
+・ソフト、ハード、ドキュメント、データのライセンスの紹介
+・簡単な紹介と分類
+・ハードウェアのライセンス
+　CERN OHL 1.3  2.0beta
+　solderpad
+　
+　Open Hardware Repository | CERN Open Hardware Licence - Documents
+https://www.ohwr.org/projects/cernohl/documents
+  ここを見ると、最新が1.2で、ドラフトバージョンは2015年11月で古い。
+  
+  licenses
+http://solderpad.org/licenses/
+  
+  参考：solderpad
+  ソーシャル化するハードウェア開発 - Andrew Back氏、 SolderPad共同創設者 | RS Components オンライン
+https://jp.rs-online.com/web/generalDisplay.html?id=promotions/discover_article/discover_article11#.XCLZdXozZuU
+
+【1-8】
+・コンテナイメージの出荷に関する問題
+・最も簡単なDockerイメージhello worldでも96MB。多くのパッケージが入っている。
+・Dockerfileは多くのパッケージでたった4行だが、標準的なプロパティでも問題あり
+
+　参考：Dockerfileの作成
+　Docker入門（第四回）～Dockerfileについて～ | さくらのナレッジ
+https://knowledge.sakura.ad.jp/15253/
+
+・パッケージの依存性が不明
+・バージョンが不明
+・コンテナビルドシステムの落とし穴
+・ソースのトラッキングが必要
+
+注）Dockerfileの中でyum等で最新パッケージをインストールする場合、どのバージョンが分からないという意味であろうか？
+
+・コンテナの中身を調査するために、Ternを用いる
+  Tern is a software package inspection tool for containers written in Python.
+  
+Tern Home
+GitHub - vmware/tern: Open Source compliance for containers
+https://github.com/vmware/tern
+
+【1-9】
+・OSSSCM (Open Source Software Supply Chain Management)
+・サプライチェーン・マネジメントの歴史
+・社内に閉じていた
+・OSSSCMの違い：開発コミュニティの意志を尊重する
+　・標準を作る
+・OpenChainプロジェクトで活動していく
+・サブワーキング・グループで活動。デンソー等多くの企業
+・OINメンバーの増加。
+　Linuxにおける特許の網羅率は
+　2016  2017  2018
+　44%   55%   68%となり、リスクが減った。
+　2018年はMicrosoft, 日立、KDDIが加入
+　
+GPL Cooperation Commitment (GPLCC)のHome
+Join the GPL Cooperation Commitment | GPL Cooperation Commitment
+https://gplcc.github.io/gplcc/
+ゴール：
+・GPLライセンス強制の濫用を抑制すること
+・強制について予測ができるようにすること
+・強制が発生する際には、強制は公正であり予測可能であることを理解してもらうことにより、究極的にはオープンソースの利用と開発に参加してもらうこと
+
+・GPLCCはGPLv2, LGPLv2著作権者による宣言である。
+・2017年11月にRedHat, IBM, Google, Facebookが発表し、それ以来、40社も発表。
+
+・トヨタもGPLCCに参加
+  https://www.toyota.co.jp/jpn/sustainability/governance/compliance/Toyota_GPL_Commitment.pdf
+・サブワーキング・グループでのコミュニティへの還元活動。教材、FAQ。
+　・OSSコンプライアンス理解のために、配布する
+　
+【1-10】
+
+・Open Source Casebook
+  GitHub - google/opencasebook: Open Source Casebook
+https://github.com/google/opencasebook
+
+  The Open Source Casebook provides an analysis of several key legal topics in open source, grounded in primary sources.
+  
+  法的な検討
+
+・Apache Contributor License Agreement (CLA)
+　・Pemissive, Clear, Fair, Comprehensive
+  ・Googleはこれを使用
+  ・開発者はorigin（源）であることを証明する
+  ・authorshipが明確でない
+  ・contributorの定義が明確でない
+  ・第７条 Submitted on behalf of a third-party の問題
+  
+・DCO v1.1
+  Developer Certificate of Origin
+https://developercertificate.org/
+　・Linux Foundation作成
+
+・使い方：個人または会社が署名する
+・署名者：President/CEO, VP, General Manager, Counsel, CTO/Director of Engineer
+　・以下の場合は無効：Non-executive Director, Software Engineer, Legal
+　
+・他のライセンスとの関係
+　・オーナーは著作権を持つ
+　・貢献を受ける側は、ライセンスを受けるだけ
+　
+　参考：著作権の保有と譲渡
+https://producingoss.com/ja/copyright-assignment.html
+
+【1-11】
+・BANG
+　・新世代のバイナリスキャナ
+　・目的：ライセンスコンプライアンス、脆弱性
+　・GitHub - armijnhemel/binaryanalysis-ng: Binary Analysis Next Generation (BANG)
+https://github.com/armijnhemel/binaryanalysis-ng
+　・まだインダストリまでフォーカスできていない（商用レベルではない）
+　・ソースコードには対応していない。
+　・GPL強制はほとんどがバイナリ
+　・ライセンスはAGPLv3
+　・スキャナエンジンを改訂
+　・他のバイナリツールの知見を活かす
+
+【1-12】
+・ライセンスコンプライアンスツールFOSSIDへのAI導入
+・FOSSIDによる監査実施
+　・2018年は10ファイルに対して実施
+　・例えば ZLIB 1.7のスキャン
+　　・2493コンポーネントのマッチ。内、900はforkしたもの
+　　・さらに部分一致がある。
+　　・さらに誤検知がある
+　・ライセンス文が書き換えられていることがある。もはやApacheでないなど
+・得られた教訓
+　・監査の複雑性は増している
+　・決定の多くはシンプルで退屈
+　・人間の判断はエラーが多い
+　・監査はコスト・時間がかかる
+・監査人を置き換え、監査結果を修正するためのAI
+
+【1-13】
+・Nomos: コンプライアンス・ルールセットの正規表現
+・Monk: テキスト差分による判断
+・機械学習によるライセンス判断
+　・ベクター化、モデル化
+・トレーニングデータの偏りが問題
+　・トップ50ライセンスが99%を占める
+・Atarashi
+　・Non rule based scanner: 新しいライセンスのためのルール追加はしない
+　・テキスト統計処理　ライセンスに関連するテキストを収集
+　・GitHub - fossology/atarashi: Atarashi scans for license statements in open source software, focusing on text statistics. Designed to work stand-alone and with FOSSology.
+https://github.com/fossology/atarashi
+
+・似たアプローチではある
+・どちらもstand aloneで動作する
+・atarashiはFOSSologyに入っていく
+
+【1-14】
+略
+
+【2-1】
+・NECの歴史の紹介
+　・2000年頃からエコシステムに貢献してきた
+　　・Linux Foundation, OIN, OpenStack, CNCF, BlockChain
+　・Linux Foundation Networking (LFN)にプラチナメンバーとして加入
+　　・Software Defined Networking (SDN)のプロジェクトをLFNにマージ
+　・Hyperledgerへの貢献
+　　・IP, リーガルのレビューの上
+・CCLA (Corporate Contribution License Agreement)に同意する際の問題
+　・法務はメール署名部分に「貢献ではない」の文言を入れることを要求してきた
+　・著作権が共有されるべきであるという意見
+　・毎日のコード提供にはそぐわない
+　・特許の問題
+・法務：自分のもの、OSS：我々のものという衝突がある
+・GPLv2のcure periodの問題：社内の誰も考えていない
+・考え方が法務、知財に理解されない
+・OSPOの役割：OSSカルチャーと企業カルチャーのかけはしとなること
+
+【2-2】
+・日立はエンドユーザ、貢献者、配布者としてOSSを利用してきた
+・ライセンス確定の難しさ
+・ライセンス情報が散らばっている
+　・LICENSEファイル
+　・コードのコメント部分
+　・パッケージメタデータ(pom.xml, package.json)
+　・Webサイト
+・混乱する状況
+　・一貫していない。READMEにはGPLv2とあるのに、WebサイトにはMIT
+　・曖昧なライセンス。BSDish, MIT-like
+・日立では、最初のユーザがライセンスを確定し、その結果を共有する
+　・正しいことを確認した後、DBに情報を格納
+・依存性の問題
+　・例えば、Node-REDは903パッケージに依存しており、人がライセンスを確定しようとすると、1.3ヶ月かかる計算。自動化が必須である。
+・自動化のシステムとして、Black Duck Hubと、Proxy Server, Web Serverを組み合わせたシステムを構築した
+　・Black Duck Hub: OSSおよびライセンス検知
+　・Proxy Server: ファイルのダウンロードと保存。HubへのOSS検知依頼
+　・Web Server: UI
+　・ユーザがOSSをダウンロードしようとすると、Proxy Serverがそれを保存し、HubにOSS検知をリクエスト。Proxy Serverはファイル名、バージョン、ライセンス情報を得て、それをDBに登録。DBに登録した内容はブラウザから参照可。
+　・依存性は、パッケージインストーラによって依存したものがダウンロードされたときに、それに対して同様にOSS検知を行う。
+　・手動では１ヶ月に700コンポーネントの識別が可能
+　・このシステムでは１ヶ月で8000コンポーネントの識別を実現。10倍以上。
+・課題
+　・曖昧なライセンスが判定できているか？
+　・複数ライセンスが入ったときの問題
+　
+【2-3】
+・コミュニティ貢献の課題
+　・社内の他のプロジェクトが参加しているか不明
+　・契約内容が不明
+　・貢献の際に守るべきルールが不明
+　・知財部門によるチェック要
+　・参加可否が不明
+　・しかし、加速する必要がある
+・ゴール：ルールの明確化
+　・参加ガイドラインの策定
+　・参加者リストの共有
+・コミュニティ参加ガイドライン
+　1. OSSコミュニティの調査（ライセンス条件、活動状況（リリース、コミット））
+　2. 知財部門によるチェック
+　　富士通は原則、OSSに対して特許主張は行わないというポリシーを持つが、最終的な非係争承認は部門から得る
+　3. そのプロジェクトでルールを策定する
+　4. 著作権の扱い
+　5. 機密情報の扱い
+　6. 特許の扱い
+
+・富士通がホストするOSS
+　・Personium: Personium | Open Source PDS Software.
+https://personium.io/ja/index.html
+　　・Personal Data Store
+　・Open Service Catalog Manager
+https://openservicecatalogmanager.org/ui/
+　・COMEVIZZ : 富士通研究所
+http://www.fujitsu.com/jp/group/labs/resources/tech/announced-tools/comevizz/
+　　・GitHub - FujitsuLaboratories/COMEVIZZ: COMEVIZZ is COde MEtrics VIsualiZation with Z-Score.
+https://github.com/FujitsuLaboratories/COMEVIZZ
+　・Launcher: GitHub - fujitsu/launcher: Launcher - MicroProfile implementation
+https://github.com/fujitsu/launcher
+　　・参考：フロンターレをマイクロサービス化する - Qiita
+https://qiita.com/kazumura/items/174f75718ddbe5237a6b
+　・Cattaz: GitHub - FujitsuLaboratories/cattaz: Realtime collaborative tool which can run custom applications in a Wiki page
+https://github.com/FujitsuLaboratories/cattaz
+　・KurumiPy: GitHub - FujitsuLaboratories/kurumipy: An enhanced memoization library for Python
+https://github.com/FujitsuLaboratories/kurumipy
+　　・参考：Pythonの処理を高速化するメモ化ツール「KurumiPy」を作った - Qiita
+https://qiita.com/yoheiseki/items/f1a7908f76ed596d768e
+
+【2-4】
+・MSのGitHub利用状況
+　・GitHub User: 20000
+　・GitHub repositories: 8500
+　・Community Collaboration: 1000
+　・何事も1000以上になると管理が困難
+・コンプライアンスをスケールさせるのは難しい
+　・多数のポリシーやプロセス
+　・申請・承認の煩わしさ
+　・官僚主義
+　・多くの衝突
+・楽観的であれ
+　・摩擦は必要なときに抑える
+　・正常に戻すためのガードレールの設置
+　・結果として速く走れる（車にとって最もパワフルなものはブレーキ）
+・3つの戦略
+　・除去：ポリシー、質問、手順は本当に必要か
+　・自動化：自動にするためのポリシー、ツール、駆動するためのデータ
+　　・レビュー100%を0.5%に抑える
+　・代理：ローカルで決定。分散。中央関与は削る
+　　・engagement developersの数を60から20000に増加
+・デモ
+　・Noticeファイル自動生成
+　・コンポーネントの脆弱性通知
+　・Licenseファイル・著作権情報の収集
+　
+【2-5】
+・コミュニティとは
+　・エンジニアがエンジニアのために作った
+　・ガバナンスは少なかった
+・徐々に企業が入ってきて、利益追求が影響を与え始める
+・エンジニアは協調するのが当たり前。しかし企業は競争する
+・競争が一般になると、相手との協調は危険であり、多大な注意を要する
+・多くのルールが作られ、ガバナンスも増える
+・企業はビジネスの支配を追求する一方で、公正さも解決する必要があり、ガバナンスが必要とされる
+・ライセンスの決定は特にガバナンスの対象
+・企業は、自分にとって公正であるべくガバナンス文書を作成する
+・そこでは開発者のニーズは考慮されない
+・例えばApacheライセンス。高ガバナンス、高メンテナンス。一方、GPLは低ガバナンス、低メンテナンス
+・企業はpermissiveライセンスを好む。代償としてガバナンスが必要となる
+・permissiveライセンスは公正さを強制しない
+・技術革新を考えてみる
+　・Linux Kernelの成功はGPLによるものである
+　・OpenStack(Apache-2.0)の失敗はガバナンスの失敗
+　　・参考：2016年秋、OpenStackは何をカバーすべきかという古くて新しい問題：特集：成熟するOpenStack、企業における利用の現場（４） - ＠IT
+http://www.atmarkit.co.jp/ait/articles/1611/29/news023.html
+・法的活動(legal action)は強制の唯一の形態である
+　・サプライチェーンを守らせることは強制
+　・ライセンスを守らせるのはエコシステムのためである。破壊しているのではない。
+　・法的なものだけを強制と呼ぶな（注　どちらが意図か不明）
+
+質疑応答
+・Harmonyは失敗。ガバナンスもなかった
+・高ガバナンスはイノベーションを産まない
+　・よって企業はイノベーションを産まない
+　・イノベーションにはgo playが大事
+※反論も多かった
+
+・高ガバナンス
+　・特許許諾、特許非係争に関してガバナンス要ということ？しかし、GPLv3も特許許諾・非係争条項あり
+
+【2-6】
+・コンプライアンスの重要性について
+・TUV SUDはモジュールレベルとコンポーネントレベル、コンポーネントレベルとシステムレベルの間において第三者認証を行う
+・OpenChainがベースとなる
+・第三者認証によって、顧客に結果を示せる、競争上の利点、争い時の証跡となり得る
+・９ヶ月でキックオフ、監査、認証レポート報告
+・日立が最初の認証
+
+【2-7】
+・Software Heritageのミッション：collect, preserve, share
+・FOSSID社は初の独立ミラー
+・50億ソース・ファイル、10億コミット、8500万プロジェクト、圧縮して200TB Blobs、6TB DB
+・ソースコードの配布元としてアウトソーシングできるか
+　・弁護士に相談し、YESという回答をもらっている。ただしIANAL (I am not a lawyer)
+　・GPLv2, v3のFAQからすると可能
+　　・参考：https://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.ja.html#SourceAndBinaryOnDifferentSites
+　　　・GPLでは、あなたはソースコードをバイナリと「同じ場所から」コピーするためのアクセスを提供しなければならないと定めています。すなわち、バイナリのとなりにソースを置くということです。しかし、他のサイトと協定を結んで、必要なソースコードを入手可能にし続けてもらい、バイナリの近傍にソースコードへのリンクやクロスリファレンスを張って置くならば、わたしたちは「同じ場所から」と言ってよいと判断します。
+　　　　しかし、注意すべきなのは、たまたま今日は適切なソースコードをおいているとあるサイトを見つけて、人々にそっちを見ろと言うだけでは不十分だということです。明日になればそのサイトはソースコードを削除してしまうかもしれませんし、あるいは単に同じプログラムの新しいバージョンで置き換えてしまうかもしれません。そうするとあなたはもはやGPLの要件を満たしているとは言えなくなります。要件を満たすべく十分な努力を払うには、あなたは他のサイトとはっきりした協定を結び、あなたがバイナリを入手可能にしておく期間中はソースがそこで入手可能であるということを保証しなければなりません。
+　　　　
+・depositサービスを提供
+　・アクセス制限あり
+　・tar ball作成、メタデータ作成、クライアントツールでデポジット、persistent IDの発行。オンラインでブラウズできる
+　
+【2-8】
+・著作権表記は重要。しかし、その発見、信頼は易しくない。
+・FOSSologyで検知できるが、誤検知が多い。
+・ベクタ計算によって誤検知は自動削除し、正しいものだけを検知できるようにした
+・コード提供したのに、forkが多くなされて、著作権表記が失われることもある
+・主コントリビューターが通知に含まれているかを調べる
+・Linux Kernel 4.14に対しcregitを使用。リスクのある著作権表記が61%もあった。
+・他人の著作権表記を削除する例がかなりあった。理由がある場合とない場合があった
+
+【2-9】
+・商標一般の話が多く、OSSとはあまり関係がなかった
+
+【2-10】
+・GDPRとOSS開発
+　・プロジェクトはGDPRを考えるべきか
+　・Contributorは忘れられる権利を実行できるか
+　・同意をどのように得るか
+・Gitには中央レポジトリという考え方はない
+・GDPRが定義するプロセスと言えるのか？
+・個人情報の削除は要求できるか？
+　・git commitは失くせない。失くすとコード提供の事実がなくなる。
+・DCO (Developer Certificate of Origin)について
+　・条項(d)を書き換えればOK。個人情報、sign-offが含まれることに同意する
+
+【2-11】
+略
+
+【2-12】
+OSSに関するアンケート集計
+・コンプライアンス・ガイド
+　15% OpenChain
+　85% 会社独自
+　 0% なし
+・OSSの利用
+　41% プロプライエタリ中心
+　15% OSS中心
+　44% 混合
+　 0% 使わない
+・利用しているツールの評価
+　 1% 素晴らしい(great)
+　12% 可(OK)
+　79% もう少しよければ(better)
+　 1% ひどい(terrible)
+　 1% 使っていない
+・月毎のパッケージ利用(incoming)
+　43% 0-100
+　32% 101-1000
+　16% 1001-10000
+　 6% >10000
+・月毎のパッケージ利用(outgoing)
+  68% 0-100
+  19% 101-1000
+   6% 1001-10000
+   6% >10000
+・ソフト購入時、BOM (Bill Of Material：部品表）を必要とするか
+　15% SPDXを使用
+　59% 特定フォーマットではないが使用
+　26% 不要
+・ソフト提供時、BOMを提供するか
+  18% SPDXを使用
+  50% 会社独自フォーマットあり
+  29% 顧客要求に合わせる
+   3% 要求されない
+・コンプライアンスツールに求めるもの
+　 8% 価格(cheaper)
+　 5% 省リソース(IT resource)
+　11% 速度(faster)
+　42% 操作性(easier)
+　18% 機能(more feature)
+　16% OSS(non proprietary)
+・ツールの開発にリソースをかけているか
+  51% YES
+  15% NO
+  33% Maybe
+  
+【2-13】
+Home - CHAOSS
+https://chaoss.community/
+　　　
+
+
+
+
+
+
+
+
+
+
